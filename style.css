@@ -1,0 +1,19 @@
+body {
+	padding: 10px;
+}
+
+.special {           /*  class attribute override */
+	color: red;
+
+}
+
+.second {
+	border: solid 5px black;
+	padding: 10px;
+	margin: 25px;
+}
+
+.third {
+	border: solid 5px green;
+	padding: 10px;
+}
